@@ -1,6 +1,6 @@
 {
-  "name": "Citrovela — Panel de gestión",
-  "short_name": "Citrovela",
+  "name": "Citrovelas — Panel de gestión",
+  "short_name": "Citrovelas",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#F4F5EF",
